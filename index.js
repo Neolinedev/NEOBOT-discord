@@ -3,7 +3,7 @@ const { Client,
     Collection } = require('discord.js');
 const bot = new Client;
 
-const token = 'NzYzNDIwNDY2OTgzMDc1OTIx.X33ctg.I8aamxLtTMUthe7WJwDr3-SvsgU';
+const token = 'INSERT YOUR DISCORD BOT TOKEN HERE.';
 var PREFIX = '$';
 var version = '1.0.0';
 
